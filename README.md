@@ -24,4 +24,4 @@ See [the docs](https://docs.pytest.org/en/latest/cache.html) for more informatio
     1、用户端：
         直接运行项目文件CquptChats下的main.py文件
     2、管理端：
-        运行Manager文件下的main.py
+        运行prject/Manager文件下的main.py
